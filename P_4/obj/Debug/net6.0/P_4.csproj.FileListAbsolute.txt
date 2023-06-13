@@ -1,0 +1,15 @@
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\bin\Debug\net6.0\P_4.exe
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\bin\Debug\net6.0\P_4.deps.json
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\bin\Debug\net6.0\P_4.runtimeconfig.json
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\bin\Debug\net6.0\P_4.dll
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\bin\Debug\net6.0\P_4.pdb
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.csproj.AssemblyReference.cache
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.AssemblyInfoInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.AssemblyInfo.cs
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.csproj.CoreCompileInputs.cache
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.dll
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\refint\P_4.dll
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.pdb
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\P_4.genruntimeconfig.cache
+C:\Users\VIKSER\Desktop\ДЗ_1\P_4\obj\Debug\net6.0\ref\P_4.dll
